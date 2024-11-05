@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <head charset="utf-8">
+        <title>Flight booking</title>
+    </head>
+
+<body>
+    
+    <form action="">
+        <h1>Flight Booking Form to Goa</h1>
+        <fieldset>
+            <legend>Personalm Information</legend>
+            Full Name:<input type="text"><i>
+                <pre></pre>
+                Email Adress:<input type="text">
+                <pre></pre>
+                Phone Number:<input type="text">
+                <pre></pre>
+                Passport Number:<input type="text">
+                <pre></pre>
+        </fieldset><br>
+        <fieldset>
+            <legend>Flight Details</legend>
+            Depature Date:<input type="date">
+            <pre></pre>
+            Return Date:<input type="date">
+            <pre></pre>
+            Departure City:<input type="text">
+            <pre></pre>c">Economic</option>
+                <option value="standard">Standard</option>
+                <option value="bussiness">Business</option>
+            </select>
+            Flight Class:<select>
+                <option value="Economi
+        </fieldset><br>
+        <fieldset>
+            <legend>Personal Information</legend>
+            Name on Card:<input type="text">
+            <pre></pre>
+            Card Number:<input type="text">
+            <pre></pre>
+            Expiry Date:<input type="month">
+            <pre></pre>
+            CVV:<input type="text">
+        </fieldset><br>
+        
+        </form>
+
+    
+    <button>Book Flight</button>
+</body>
+
+</html>
